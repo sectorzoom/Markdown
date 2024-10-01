@@ -1,9 +1,9 @@
 
 # Título Principal
 
-## Subtí­tulo
+## Subtítulo
 
-Este es un párrafo con algunas **palabras en negrita**, otras en *cursiva*, y `esto está¡ escrito en código`.
+Este es un párrafo con algunas **palabras en negrita**, otras en *cursiva*, y `esto está escrito en código`.
 
 ```python
 # Este es un trozo de código en Python

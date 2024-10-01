@@ -19,7 +19,7 @@ def hola_mundo():
 - Elemento B
 - Elemento C
 
-[Enlace a una URL externa](https://www.example.com)
+[Enlace a una URL externa](https://www.google.es)
 
 [Enlace a otro fichero Markdown](./hola.md)
 

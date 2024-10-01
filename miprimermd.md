@@ -23,7 +23,7 @@ def hola_mundo():
 
 [Enlace a otro fichero Markdown](./hola.md)
 
-![Descripción de la imagen](https://www.example.com/imagen.png)
+![Descripción de la imagen](https://img.imagenescool.com/ic/hola/hola_032.jpg)
 
 | Encabezado 1 | Encabezado 2 |
 |--------------|--------------|

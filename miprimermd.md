@@ -21,7 +21,7 @@ def hola_mundo():
 
 [Enlace a una URL externa](https://www.example.com)
 
-[Enlace a otro fichero Markdown](./otrofichero.md)
+[Enlace a otro fichero Markdown](./hola.md)
 
 ![Descripción de la imagen](https://www.example.com/imagen.png)
 
